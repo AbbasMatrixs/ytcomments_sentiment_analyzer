@@ -1,7 +1,3 @@
-Project Members:
-Mohsin Ali (BSE-24S-052)
-Hassan Abbas (BSE-24S-070)
-Abdul Ahad (BSE-24S-071)
 
                                                                         📘 Project Report: Sentiment Analysis of YouTube Comments
 
